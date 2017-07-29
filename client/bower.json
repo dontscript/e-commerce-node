@@ -1,0 +1,31 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/dontscript/e-commerce-node",
+  "authors": [
+    "Do Nguyen <donguyen0311@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular-mocks": "^1.6.5",
+    "angular-resource": "^1.6.5",
+    "angular-cookies": "^1.6.5",
+    "angular-touch": "^1.6.5",
+    "angular-sanitize": "^1.6.5",
+    "angular-ui-router": "^1.0.5",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "^3.3.7",
+    "angular-aria": "^1.6.5"
+  }
+}
